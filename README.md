@@ -1,5 +1,7 @@
 Project Title
 =
+Cleaning Data with Python
+
 General Info
 =
 This project is about data cleaning data in Python.<br>
