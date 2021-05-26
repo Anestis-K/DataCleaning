@@ -1,6 +1,8 @@
 Project Title
 =
-<h1> Cleaning Data with Python <h1>
+
+Cleaning Data with Python 
+=
 
 General Info
 =
@@ -12,6 +14,7 @@ familiarity with the environment.</p>
 
 Data Collection Phase
 =
+In this phase
 
 
 Images
