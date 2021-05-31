@@ -2,19 +2,19 @@ Project Title
 =
 
 Cleaning Data with Python 
-=
+
 
 General Info
 =
 This project is about data cleaning data in Python.<br>
 <p>The project was developed with Jupyter Notebook in order to get, <br>
 familiarity with the environment.</p>
-<p>In order to take basic look of the project below will provided two images of what were the data in the first place (messy) and then tidy<br>
+<p>In order to take  a basic look of the project two images will be provided  in order the before and after format of data. <br>
 
 
 Data Collection Phase
 =
-In this phase
+In this phase the data will be collected from the source
 
 
 Images
