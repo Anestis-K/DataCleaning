@@ -1,8 +1,6 @@
 Project Title
 =
-
 Cleaning Data with Python 
-=
 
 
 General Info
