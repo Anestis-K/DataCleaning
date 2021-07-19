@@ -1,6 +1,6 @@
 Project Title
-=
-Cleaning Data with Python 
+
+<h1> Cleaning Data with Python <h1>
 
 
 General Info
